@@ -13,8 +13,8 @@ import (
 	"github.com/golang-jwt/jwt/v4"
 )
 
-var botToken = os.Getenv("BOT_TOKEN")
-var botAPI = os.Getenv("BOT_API")
+var botToken = os.Getenv("7690517391:AAHOpUt5-pa-g3jZ5wNvMZlWeMXxNLA2anM")
+var botAPI = os.Getenv("7690517391:AAHOpUt5-pa-g3jZ5wNvMZlWeMXxNLA2anM")
 var frontEndURL = os.Getenv("FRONTEND_URL")
 
 func main() {
